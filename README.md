@@ -48,7 +48,7 @@ interval = "24h"
 
 ## Error Handling
 
-Failed jobs log to `/home/ubuntu/solaradocs/tasks.log` with timestamps and exit codes. The job continues running on its interval after a failure.
+Failed jobs log to `/home/ubuntu/{projectname}/tasks.log` with timestamps and exit codes. The job continues running on its interval after a failure.
 
 ## Architecture
 
