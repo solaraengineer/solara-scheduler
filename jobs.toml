@@ -1,0 +1,5 @@
+[[jobs]]
+name = "lol"
+command = "python3 daddy.py"
+path = "/users/solara/desktop"
+interval = "1m"
