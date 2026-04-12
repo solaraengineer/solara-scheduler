@@ -6,7 +6,7 @@ use tokio::io::{AsyncBufReadExt, AsyncWriteExt, BufReader};
 use tokio::net::UnixStream;
 
 const SOCKET_PATH: &str = "/tmp/solara-scheduler.sock";
-const JOBS_TOML: &str = "/Users/solara/Desktop/solara-scheduler/jobs.toml";
+const JOBS_TOML: &str = "/etc/solara-sch/jobs.toml";
 const LOG_PATH: &str = "/home/ubuntu/solaradocs/tasks.log";
 
 #[derive(Parser)]

@@ -1,5 +1,5 @@
 [[jobs]]
-name = "lol"
-command = "python3 daddy.py"
-path = "/users/solara/desktop"
-interval = "1m"
+name = "TierMatching"
+command = "python3 matchtiers.py"
+path = "/home/ubuntu/solaradocs/tasks"
+interval = "6h"
