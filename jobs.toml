@@ -1,5 +1,5 @@
 [[jobs]]
-name = "TierMatching"
-command = "python3 matchtiers.py"
-path = "/home/ubuntu/solaradocs/tasks"
+name = "DockerCleanUp"
+command = "python3 dockercleanup.py"
+path = "/Users/solara/Desktop/tasks"
 interval = "6h"
